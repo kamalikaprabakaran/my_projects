@@ -1,0 +1,8 @@
+#Algorithm for minimum number in a list
+Step1:-Begin the program
+Step2:-Initialize the first number in the list as min_value
+Step3:-For each element in the list compare it to the current value of min_value
+Step4:-If the element is smaller than min_value, update the min_value to the value of the element
+Step5:-Continue the process untile you have checked all the elements in the list
+Step6:-At the end of the iteration min_value contains the minimum number in the lsit
+Step7:-End the program
