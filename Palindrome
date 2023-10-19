@@ -1,0 +1,6 @@
+string=input("Enter a word:")
+reverse=string[::-1]
+if(reverse==string):
+    print("It is a Palindrome");
+else:
+    print("It is not a Palindrome")
