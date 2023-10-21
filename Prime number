@@ -1,0 +1,6 @@
+for i in range(2,100):
+    if(i%2==1):
+        print(i," is prime number")
+        i+=1
+    else:
+        continue;
