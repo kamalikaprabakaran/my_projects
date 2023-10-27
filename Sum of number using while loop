@@ -1,0 +1,9 @@
+#Sum of numbers from 1 to user define number using while loop
+num=int(input("Enter a value : "))
+sum=0
+current_value=1
+while current_value<=num:
+    sum+=current_value
+    current_value+=1
+print("The sum of the number form 1 to ",num," is ",sum)    
+    
